@@ -1,0 +1,1023 @@
+{
+  "culture": [
+    { "id": "4d4b7104d754a06370d81259", "name": "Culture et loisirs" },
+    { "id": "4bf58dd8d48988d131941735", "name": "Centre spirituel" },
+    { "id": "52e81612bcbc57f1066b7a3e", "name": "Temple bouddhiste" },
+    { "id": "58daa1558bbb0b01f18ec1eb", "name": "Cemevi" },
+    { "id": "4bf58dd8d48988d132941735", "name": "Église" },
+    { "id": "56aa371be4b08b9a8d5734fc", "name": "Temple confucéen" },
+    { "id": "52e81612bcbc57f1066b7a3f", "name": "Temple hindou" },
+    { "id": "5744ccdfe4b0c0459246b4ac", "name": "Salle du Royaume" },
+    { "id": "52e81612bcbc57f1066b7a40", "name": "Monastère" },
+    { "id": "4bf58dd8d48988d138941735", "name": "Mosquée" },
+    { "id": "52e81612bcbc57f1066b7a41", "name": "Salle de prière" },
+    { "id": "4eb1d80a4b900d56c88a45ff", "name": "Sanctuaire" },
+    { "id": "5bae9231bedf3950379f89c9", "name": "Temple sikh" },
+    { "id": "4bf58dd8d48988d139941735", "name": "Synagogue" },
+    { "id": "4bf58dd8d48988d13a941735", "name": "Temple" },
+    { "id": "56aa371be4b08b9a8d5734f6", "name": "Terreiro" },
+    { "id": "4bf58dd8d48988d13b941735", "name": "École" },
+    {
+      "id": "56aa371ce4b08b9a8d573570",
+      "name": "Centre d'enseignement pour adultes"
+    },
+    { "id": "52e81612bcbc57f1066b7a43", "name": "École de cirque" },
+    { "id": "58daa1558bbb0b01f18ec200", "name": "École de cuisine" },
+    { "id": "52e81612bcbc57f1066b7a42", "name": "Auto-école" },
+    { "id": "4f4533804b9074f6e4fb0105", "name": "École primaire" },
+    { "id": "52e81612bcbc57f1066b7a49", "name": "École d'aviation" },
+    { "id": "4bf58dd8d48988d13d941735", "name": "Lycée" },
+    { "id": "52e81612bcbc57f1066b7a48", "name": "École de Langue" },
+    { "id": "4f4533814b9074f6e4fb0106", "name": "Collège" },
+    { "id": "4f04b10d2fb6e1c99f3db0be", "name": "École de musique" },
+    { "id": "4f4533814b9074f6e4fb0107", "name": "Crèche" },
+    { "id": "52e81612bcbc57f1066b7a45", "name": "École maternelle" },
+    { "id": "52e81612bcbc57f1066b7a46", "name": "École privée" },
+    { "id": "52e81612bcbc57f1066b7a47", "name": "École confessionnelle" },
+    { "id": "52e81612bcbc57f1066b7a44", "name": "École de natation" },
+    { "id": "56aa371be4b08b9a8d5734db", "name": "Amphithéâtre" },
+    { "id": "4fceea171983d5d06c3e9823", "name": "Aquarium" },
+    { "id": "4bf58dd8d48988d1e2931735", "name": "Galerie d'art" },
+    { "id": "4bf58dd8d48988d1e4931735", "name": "Salle de bowling" },
+    { "id": "4bf58dd8d48988d17c941735", "name": "Casino" },
+    { "id": "4bf58dd8d48988d18e941735", "name": "Salle de spectacle" },
+    { "id": "5032792091d4c4b30a586d5c", "name": "Salle de concert" },
+    { "id": "52e81612bcbc57f1066b79e8", "name": "Disc golf" },
+    { "id": "56aa371be4b08b9a8d573532", "name": "Exposition" },
+    { "id": "4bf58dd8d48988d1f1931735", "name": "Divertissements et loisirs" },
+    { "id": "4deefb944765f83613cdba6e", "name": "Site historique" },
+    { "id": "5642206c498e4bfca532186c", "name": "Lieu de mémoire" },
+    { "id": "52e81612bcbc57f1066b79eb", "name": "Mini golf" },
+    { "id": "4bf58dd8d48988d17f941735", "name": "Cinéma" },
+    { "id": "56aa371be4b08b9a8d5734de", "name": "Cinéma drive-in" },
+    { "id": "4bf58dd8d48988d17e941735", "name": "Cinéma indépendant" },
+    { "id": "4bf58dd8d48988d180941735", "name": "Multiplexe" },
+    { "id": "4bf58dd8d48988d181941735", "name": "Musée" },
+    { "id": "4bf58dd8d48988d18f941735", "name": "Musée d'art" },
+    { "id": "559acbe0498e472f1a53fa23", "name": "Musée de l'érotisme" },
+    { "id": "4bf58dd8d48988d190941735", "name": "Musée d'histoire" },
+    { "id": "4bf58dd8d48988d192941735", "name": "Planétarium" },
+    { "id": "4bf58dd8d48988d191941735", "name": "Musée des sciences" },
+    { "id": "4bf58dd8d48988d1e5931735", "name": "Salle de concert" },
+    { "id": "4bf58dd8d48988d1e7931735", "name": "Club de jazz" },
+    { "id": "4bf58dd8d48988d1e8931735", "name": "Piano-bar" },
+    { "id": "4bf58dd8d48988d1e9931735", "name": "Discothèque rock" },
+    { "id": "5744ccdfe4b0c0459246b4b8", "name": "Salle de pachinko" },
+    {
+      "id": "4bf58dd8d48988d1f2931735",
+      "name": "Complexe des arts de la scène"
+    },
+    { "id": "4bf58dd8d48988d134941735", "name": "Salle de danse" },
+    { "id": "4bf58dd8d48988d135941735", "name": "Cinéma indépendant" },
+    { "id": "4bf58dd8d48988d136941735", "name": "Opéra" },
+    { "id": "4bf58dd8d48988d137941735", "name": "Théâtre" },
+    { "id": "4bf58dd8d48988d1e3931735", "name": "Salle de billard" },
+    { "id": "507c8c4091d498d9fc8c67a9", "name": "Art public" },
+    { "id": "52e81612bcbc57f1066b79ed", "name": "Sculpture extérieure" },
+    { "id": "52e81612bcbc57f1066b79ee", "name": "Art de rue" },
+    { "id": "56aa371be4b08b9a8d573514", "name": "Hippodrome" },
+    { "id": "4bf58dd8d48988d1f4931735", "name": "Circuit automobile" },
+    {
+      "id": "52e81612bcbc57f1066b79e9",
+      "name": "Piste de patinage à roulettes"
+    },
+    { "id": "52e81612bcbc57f1066b79ec", "name": "Boîte de salsa" },
+    { "id": "56aa371be4b08b9a8d5734f9", "name": "École de samba" },
+    { "id": "4bf58dd8d48988d184941735", "name": "Stade" },
+    { "id": "4bf58dd8d48988d18c941735", "name": "Stade de baseball" },
+    { "id": "4bf58dd8d48988d18b941735", "name": "Stade de basketball" },
+    { "id": "4bf58dd8d48988d18a941735", "name": "Stade de cricket" },
+    { "id": "4bf58dd8d48988d189941735", "name": "Stade de football américain" },
+    { "id": "4bf58dd8d48988d185941735", "name": "Patinoire de hockey" },
+    { "id": "56aa371be4b08b9a8d573556", "name": "Stade de rugby" },
+    { "id": "4bf58dd8d48988d188941735", "name": "Stade de football" },
+    { "id": "4e39a891bd410d7aed40cbc2", "name": "Court de tennis" },
+    { "id": "4bf58dd8d48988d187941735", "name": "Stade d'athlétisme" },
+    { "id": "4bf58dd8d48988d182941735", "name": "Parc d'attractions" },
+    {
+      "id": "5109983191d435c0d71c2bb1",
+      "name": "Attractions/expériences de parcs d'attractions"
+    },
+    { "id": "4bf58dd8d48988d193941735", "name": "Parc aquatique" },
+    { "id": "4bf58dd8d48988d17b941735", "name": "Zoo" },
+    { "id": "58daa1558bbb0b01f18ec1fd", "name": "Exposition de zoo" },
+    { "id": "4d4b7105d754a06372d81259", "name": "Établissement universitaire" },
+    { "id": "4bf58dd8d48988d198941735", "name": "Bâtiment universitaire" },
+    {
+      "id": "4bf58dd8d48988d199941735",
+      "name": "Bâtiment universitaire du département des arts"
+    },
+    {
+      "id": "4bf58dd8d48988d19a941735",
+      "name": "Bâtiment universitaire du département de communication"
+    },
+    {
+      "id": "4bf58dd8d48988d19e941735",
+      "name": "Bâtiment universitaire du département d’ingénierie"
+    },
+    {
+      "id": "4bf58dd8d48988d19d941735",
+      "name": "Bâtiment universitaire du département d'histoire"
+    },
+    {
+      "id": "4bf58dd8d48988d19c941735",
+      "name": "Bâtiment universitaire du département de mathématiques"
+    },
+    {
+      "id": "4bf58dd8d48988d19b941735",
+      "name": "Bâtiment universitaire du département des sciences"
+    },
+    {
+      "id": "4bf58dd8d48988d19f941735",
+      "name": "Bâtiment universitaire du département de technologie"
+    },
+    {
+      "id": "4bf58dd8d48988d197941735",
+      "name": "Bâtiment administratif universitaire"
+    },
+    { "id": "4bf58dd8d48988d1af941735", "name": "Amphithéâtre universitaire" },
+    { "id": "4bf58dd8d48988d1b1941735", "name": "Librairie universitaire" },
+    { "id": "4bf58dd8d48988d1a1941735", "name": "Restaurant universitaire" },
+    {
+      "id": "4bf58dd8d48988d1a0941735",
+      "name": "Salle de classe universitaire"
+    },
+    { "id": "4bf58dd8d48988d1b2941735", "name": "Gymnase universitaire" },
+    { "id": "4bf58dd8d48988d1a5941735", "name": "Laboratoire universitaire" },
+    { "id": "4bf58dd8d48988d1a7941735", "name": "Bibliothèque universitaire" },
+    {
+      "id": "4bf58dd8d48988d1aa941735",
+      "name": "Cour intérieure de l'université"
+    },
+    {
+      "id": "4bf58dd8d48988d1a9941735",
+      "name": "Centre récréatif universitaire"
+    },
+    { "id": "4bf58dd8d48988d1a3941735", "name": "Résidence universitaire" },
+    { "id": "4bf58dd8d48988d1b4941735", "name": "Stade universitaire" },
+    {
+      "id": "4bf58dd8d48988d1bb941735",
+      "name": "Terrain de baseball universitaire"
+    },
+    {
+      "id": "4bf58dd8d48988d1ba941735",
+      "name": "Terrain de basketball universitaire"
+    },
+    {
+      "id": "4bf58dd8d48988d1b9941735",
+      "name": "Terrain de cricket universitaire"
+    },
+    {
+      "id": "4bf58dd8d48988d1b8941735",
+      "name": "Terrain de football américain universitaire"
+    },
+    {
+      "id": "4bf58dd8d48988d1b5941735",
+      "name": "Salle de hockey universitaire"
+    },
+    {
+      "id": "4bf58dd8d48988d1b7941735",
+      "name": "Terrain de football universitaire"
+    },
+    {
+      "id": "4e39a9cebd410d7aed40cbc4",
+      "name": "Court de tennis universitaire"
+    },
+    {
+      "id": "4bf58dd8d48988d1b6941735",
+      "name": "Piste d'athlétisme universitaire"
+    },
+    { "id": "4bf58dd8d48988d1ac941735", "name": "Théâtre universitaire" },
+    { "id": "4bf58dd8d48988d1a2941735", "name": "IUT" },
+    { "id": "4bf58dd8d48988d1b0941735", "name": "Fraternité" },
+    { "id": "4bf58dd8d48988d1a8941735", "name": "Faculté et université" },
+    { "id": "4bf58dd8d48988d1a6941735", "name": "Faculté de Droit" },
+    { "id": "4bf58dd8d48988d1b3941735", "name": "Faculté de Médecine" },
+    { "id": "4bf58dd8d48988d141941735", "name": "Sororité" },
+    { "id": "4bf58dd8d48988d1ab941735", "name": "Bureau des étudiants" },
+    { "id": "4bf58dd8d48988d1ad941735", "name": "École de commerce" },
+    { "id": "4bf58dd8d48988d1ae941735", "name": "Université" }
+  ],
+  "food": [
+    { "id": "4d4b7105d754a06374d81259", "name": "Nourriture" },
+    { "id": "503288ae91d4c4b30a586d67", "name": "Restaurant afghan" },
+    { "id": "4bf58dd8d48988d1c8941735", "name": "Restaurant africain" },
+    { "id": "4bf58dd8d48988d10a941735", "name": "Restaurant éthiopien" },
+    { "id": "4bf58dd8d48988d14e941735", "name": "Restaurant américain" },
+    {
+      "id": "4bf58dd8d48988d157941735",
+      "name": "Restaurant de cuisine américaine moderne"
+    },
+    { "id": "4bf58dd8d48988d142941735", "name": "Restaurant asiatique" },
+    {
+      "id": "56aa371be4b08b9a8d573568",
+      "name": "Restaurant de cuisine birmane"
+    },
+    { "id": "52e81612bcbc57f1066b7a03", "name": "Restaurant cambodgien" },
+    { "id": "4bf58dd8d48988d145941735", "name": "Restaurant chinois" },
+    { "id": "4eb1bd1c3b7b55596b4a748f", "name": "Restaurant philippin" },
+    { "id": "52e81612bcbc57f1066b79fb", "name": "Restaurant himalayen" },
+    {
+      "id": "52af0bd33cf9994f4e043bdd",
+      "name": "Restaurant de fondue chinoise"
+    },
+    { "id": "4deefc054765f83613cdba6f", "name": "Restaurant indonésien" },
+    { "id": "4bf58dd8d48988d111941735", "name": "Restaurant japonais" },
+    { "id": "4bf58dd8d48988d113941735", "name": "Restaurant coréen" },
+    { "id": "4bf58dd8d48988d156941735", "name": "Restaurant malais" },
+    { "id": "4eb1d5724b900d56c88a45fe", "name": "Restaurant mongol" },
+    {
+      "id": "4bf58dd8d48988d1d1941735",
+      "name": "Restaurant de nouilles chinoises"
+    },
+    { "id": "56aa371be4b08b9a8d57350e", "name": "Restaurant servant du sate" },
+    { "id": "4bf58dd8d48988d149941735", "name": "Restaurant thaïlandais" },
+    { "id": "52af39fb3cf9994f4e043be9", "name": "Restaurant Tibétain" },
+    { "id": "4bf58dd8d48988d14a941735", "name": "Restaurant vietnamien" },
+    { "id": "4bf58dd8d48988d169941735", "name": "Restaurant australien" },
+    { "id": "52e81612bcbc57f1066b7a01", "name": "Restaurant autrichien" },
+    {
+      "id": "4bf58dd8d48988d1df931735",
+      "name": "Restaurant de cuisine au barbecue"
+    },
+    { "id": "4bf58dd8d48988d179941735", "name": "Magasin de bagels" },
+    { "id": "4bf58dd8d48988d16a941735", "name": "Boulangerie" },
+    { "id": "52e81612bcbc57f1066b7a02", "name": "Restaurant belge" },
+    { "id": "52e81612bcbc57f1066b79f1", "name": "Bistro" },
+    {
+      "id": "4bf58dd8d48988d143941735",
+      "name": "Lieu servant des petits déjeuners"
+    },
+    { "id": "52e81612bcbc57f1066b7a0c", "name": "Magasin de thé aux perles" },
+    { "id": "52e81612bcbc57f1066b79f4", "name": "Buffet" },
+    { "id": "4bf58dd8d48988d16c941735", "name": "Lieu servant des hamburgers" },
+    { "id": "4bf58dd8d48988d128941735", "name": "Cafétéria" },
+    { "id": "4bf58dd8d48988d16d941735", "name": "Café" },
+    { "id": "4bf58dd8d48988d17a941735", "name": "Restaurant Cajun / créole" },
+    { "id": "4bf58dd8d48988d144941735", "name": "Restaurant antillais" },
+    { "id": "4bf58dd8d48988d154941735", "name": "Restaurant cubain" },
+    { "id": "5293a7d53cf9994f4e043a45", "name": "Restaurant caucasien" },
+    { "id": "4bf58dd8d48988d1e0931735", "name": "Coffee Shop" },
+    {
+      "id": "52e81612bcbc57f1066b7a00",
+      "name": "Restaurant de cuisine familiale"
+    },
+    { "id": "52e81612bcbc57f1066b79f2", "name": "Crêperie" },
+    { "id": "52f2ae52bcbc57f1066b8b81", "name": "Restaurant tchèque" },
+    { "id": "4bf58dd8d48988d146941735", "name": "Épicerie fine/de proximité" },
+    { "id": "4bf58dd8d48988d1d0941735", "name": "Lieu servant des desserts" },
+    { "id": "4bf58dd8d48988d1bc941735", "name": "Magasin de cupcake" },
+    { "id": "512e7cae91d4cbb4e5efe0af", "name": "Boutique de yaourts glacés" },
+    { "id": "4bf58dd8d48988d1c9941735", "name": "Glacier" },
+    { "id": "5744ccdfe4b0c0459246b4e2", "name": "Pâtisserie" },
+    { "id": "52e81612bcbc57f1066b7a0a", "name": "Tarterie" },
+    { "id": "4bf58dd8d48988d147941735", "name": "Diner" },
+    { "id": "4bf58dd8d48988d148941735", "name": "Beignerie" },
+    {
+      "id": "4bf58dd8d48988d108941735",
+      "name": "Restaurant spécialisé dans les quenelles"
+    },
+    { "id": "5744ccdfe4b0c0459246b4d0", "name": "Restaurant hollandais" },
+    {
+      "id": "4bf58dd8d48988d109941735",
+      "name": "Restaurant d'Europe de l'Est"
+    },
+    { "id": "52e928d0bcbc57f1066b7e97", "name": "Restaurant biélorusse" },
+    { "id": "58daa1558bbb0b01f18ec1ee", "name": "Restaurant bosniaque" },
+    { "id": "56aa371be4b08b9a8d5734f3", "name": "Restaurant bulgare" },
+    { "id": "52960bac3cf9994f4e043ac4", "name": "Restaurant roumain" },
+    { "id": "52e928d0bcbc57f1066b7e98", "name": "Restaurant tatar" },
+    { "id": "52e81612bcbc57f1066b7a05", "name": "Restaurant britannique" },
+    { "id": "4bf58dd8d48988d10b941735", "name": "Restaurant falafel" },
+    { "id": "4bf58dd8d48988d16e941735", "name": "Fast-food" },
+    { "id": "4edd64a0c7ddd24ca188df1a", "name": "Fish & Chips" },
+    { "id": "52e81612bcbc57f1066b7a09", "name": "Restaurant à fondue" },
+    { "id": "4bf58dd8d48988d120951735", "name": "Espace de restauration" },
+    { "id": "56aa371be4b08b9a8d57350b", "name": "Stand de restauration" },
+    { "id": "4bf58dd8d48988d1cb941735", "name": "Camion de restauration" },
+    { "id": "4bf58dd8d48988d10c941735", "name": "Restaurant français" },
+    { "id": "57558b36e4b065ecebd306b6", "name": "Restaurant alsacien" },
+    { "id": "57558b36e4b065ecebd306b8", "name": "Restaurant auvergnat" },
+    { "id": "57558b36e4b065ecebd306bc", "name": "Restaurant basque" },
+    { "id": "57558b36e4b065ecebd306b0", "name": "Brasserie" },
+    { "id": "57558b36e4b065ecebd306c5", "name": "Restaurant breton" },
+    { "id": "57558b36e4b065ecebd306c0", "name": "Restaurant bourguignon" },
+    { "id": "57558b36e4b065ecebd306cb", "name": "Restaurant catalan" },
+    { "id": "57558b36e4b065ecebd306ce", "name": "Restaurant ch'ti" },
+    { "id": "57558b36e4b065ecebd306d1", "name": "Restaurant corse" },
+    { "id": "57558b36e4b065ecebd306b4", "name": "Estaminet" },
+    { "id": "57558b36e4b065ecebd306b2", "name": "Cantine ouvrière" },
+    { "id": "57558b35e4b065ecebd306ad", "name": "Bouchon lyonnais" },
+    { "id": "57558b36e4b065ecebd306d4", "name": "Restaurant normand" },
+    { "id": "57558b36e4b065ecebd306d7", "name": "Restaurant provençal" },
+    { "id": "57558b36e4b065ecebd306da", "name": "Restaurant savoyard" },
+    {
+      "id": "57558b36e4b065ecebd306ba",
+      "name": "Restaurant de cuisine du Sud-Ouest de la France"
+    },
+    {
+      "id": "4d4ae6fc7a7b7dea34424761",
+      "name": "Restaurant spécialisé dans le poulet frit"
+    },
+    { "id": "55d25775498e9f6a0816a37a", "name": "Friterie" },
+    { "id": "4bf58dd8d48988d155941735", "name": "Gastro-pub" },
+    { "id": "4bf58dd8d48988d10d941735", "name": "Restaurant allemand" },
+    { "id": "56aa371ce4b08b9a8d573583", "name": "Bar à vin de pomme" },
+    { "id": "56aa371ce4b08b9a8d573572", "name": "Restaurant bavarois" },
+    { "id": "56aa371ce4b08b9a8d57358e", "name": "Stand à saucisses" },
+    { "id": "56aa371ce4b08b9a8d57358b", "name": "Stand à currywurst" },
+    {
+      "id": "56aa371ce4b08b9a8d573574",
+      "name": "Restaurant servant de la cuisine de Franconie"
+    },
+    {
+      "id": "56aa371ce4b08b9a8d573592",
+      "name": "Restaurant éphémère allemand"
+    },
+    {
+      "id": "56aa371ce4b08b9a8d573578",
+      "name": "Restaurant servant de la cuisine de Rhénanie-Palatinat"
+    },
+    { "id": "56aa371ce4b08b9a8d57357b", "name": "Restaurant rhénan" },
+    {
+      "id": "56aa371ce4b08b9a8d573587",
+      "name": "Restaurant servant du schnitzel"
+    },
+    {
+      "id": "56aa371ce4b08b9a8d57357f",
+      "name": "Restaurant servant de la cuisine de Silésie"
+    },
+    {
+      "id": "56aa371ce4b08b9a8d573576",
+      "name": "Restaurant servant de la cuisine de Souabe"
+    },
+    { "id": "4c2cd86ed066bed06c3c5209", "name": "Restaurant sans gluten" },
+    { "id": "4bf58dd8d48988d10e941735", "name": "Restaurant grec" },
+    { "id": "53d6c1b0e4b02351e88a83e8", "name": "Boutique de Bougatsa" },
+    { "id": "53d6c1b0e4b02351e88a83e2", "name": "Restaurant crétois" },
+    { "id": "53d6c1b0e4b02351e88a83d8", "name": "Taverne de poissons" },
+    {
+      "id": "53d6c1b0e4b02351e88a83d6",
+      "name": "Restaurant de viande grillée"
+    },
+    { "id": "53d6c1b0e4b02351e88a83e6", "name": "Kafenio" },
+    { "id": "53d6c1b0e4b02351e88a83e4", "name": "Magirio" },
+    { "id": "53d6c1b0e4b02351e88a83da", "name": "Restaurant de mézé" },
+    { "id": "53d6c1b0e4b02351e88a83d4", "name": "Restaurant grec moderne" },
+    { "id": "53d6c1b0e4b02351e88a83dc", "name": "Ouzeri" },
+    { "id": "53d6c1b0e4b02351e88a83e0", "name": "Patsa Restaurant" },
+    { "id": "52e81612bcbc57f1066b79f3", "name": "Restaurant souvláki" },
+    { "id": "53d6c1b0e4b02351e88a83d2", "name": "Taverne" },
+    { "id": "53d6c1b0e4b02351e88a83de", "name": "Restaurant de Tsipouro" },
+    { "id": "52e81612bcbc57f1066b79ff", "name": "Restaurant halal" },
+    { "id": "52e81612bcbc57f1066b79fe", "name": "Restaurant hawaïen" },
+    {
+      "id": "5bae9231bedf3950379f89d4",
+      "name": "Lieu de restauration spécialisé en poke bowls"
+    },
+    { "id": "4bf58dd8d48988d16f941735", "name": "Stand de hot-dogs" },
+    { "id": "52e81612bcbc57f1066b79fa", "name": "Restaurant hongrois" },
+    { "id": "4bf58dd8d48988d10f941735", "name": "Restaurant indien" },
+    { "id": "54135bf5e4b08f3d2429dfe5", "name": "Restaurant d'Andhra" },
+    { "id": "54135bf5e4b08f3d2429dff3", "name": "Restaurant Awadhi" },
+    { "id": "54135bf5e4b08f3d2429dff5", "name": "Restaurant bengali" },
+    { "id": "54135bf5e4b08f3d2429dfe2", "name": "Lieu servant des chaats" },
+    { "id": "54135bf5e4b08f3d2429dff2", "name": "Restaurant Chettinad" },
+    { "id": "54135bf5e4b08f3d2429dfe1", "name": "Dhaba" },
+    { "id": "54135bf5e4b08f3d2429dfe3", "name": "Lieu servant des dosas" },
+    { "id": "54135bf5e4b08f3d2429dfe8", "name": "Restaurant de Goa" },
+    { "id": "54135bf5e4b08f3d2429dfe9", "name": "Restaurant de Gujarati" },
+    { "id": "54135bf5e4b08f3d2429dfe6", "name": "Restaurant de Hyderabadi" },
+    { "id": "54135bf5e4b08f3d2429dfdf", "name": "Restaurant indien chinois" },
+    {
+      "id": "54135bf5e4b08f3d2429dfe4",
+      "name": "Lieu servant des pâtisseries indiennes"
+    },
+    { "id": "54135bf5e4b08f3d2429dfe7", "name": "Café iranien" },
+    { "id": "54135bf5e4b08f3d2429dfea", "name": "Restaurant jaïn" },
+    { "id": "54135bf5e4b08f3d2429dfeb", "name": "Restaurant de Karnataka" },
+    { "id": "54135bf5e4b08f3d2429dfed", "name": "Restaurant de Kerala" },
+    { "id": "54135bf5e4b08f3d2429dfee", "name": "Restaurant de Maharashtra" },
+    { "id": "54135bf5e4b08f3d2429dff4", "name": "Restaurant de Mughlai" },
+    {
+      "id": "54135bf5e4b08f3d2429dfe0",
+      "name": "Restaurant indien multi-cuisine"
+    },
+    { "id": "54135bf5e4b08f3d2429dfdd", "name": "Restaurant d'Inde du Nord" },
+    {
+      "id": "54135bf5e4b08f3d2429dff6",
+      "name": "Restaurant d'Inde du nord-est"
+    },
+    { "id": "54135bf5e4b08f3d2429dfef", "name": "Restaurant parsi" },
+    { "id": "54135bf5e4b08f3d2429dff0", "name": "Restaurant de Punjabi" },
+    { "id": "54135bf5e4b08f3d2429dff1", "name": "Restaurant du Rajasthan" },
+    { "id": "54135bf5e4b08f3d2429dfde", "name": "Restaurant d'Inde du Sud" },
+    { "id": "54135bf5e4b08f3d2429dfec", "name": "Restaurant d'Udupi" },
+    { "id": "52e81612bcbc57f1066b7a06", "name": "Pub irlandais" },
+    { "id": "4bf58dd8d48988d110941735", "name": "Restaurant italien" },
+    {
+      "id": "55a5a1ebe4b013909087cbb6",
+      "name": "Restaurant servant de la cuisine des Abruzzes"
+    },
+    { "id": "55a5a1ebe4b013909087cb7c", "name": "Agriturismo" },
+    {
+      "id": "55a5a1ebe4b013909087cba7",
+      "name": "Restaurant servant de la cuisine de la Vallée d'Aoste"
+    },
+    {
+      "id": "55a5a1ebe4b013909087cba1",
+      "name": "Restaurant servant de la cuisine de la région de Basilicate"
+    },
+    {
+      "id": "55a5a1ebe4b013909087cba4",
+      "name": "Restaurant servant de la cuisine calabraise"
+    },
+    {
+      "id": "55a5a1ebe4b013909087cb95",
+      "name": "Restaurant servant de la cuisine de la région de Campanie"
+    },
+    {
+      "id": "55a5a1ebe4b013909087cb89",
+      "name": "Restaurant servant de la cuisine de la région de l'Émilie"
+    },
+    {
+      "id": "55a5a1ebe4b013909087cb9b",
+      "name": "Restaurant servant de la cuisine de la région du Frioul"
+    },
+    {
+      "id": "55a5a1ebe4b013909087cb98",
+      "name": "Restaurant servant de la cuisine de Ligurie"
+    },
+    {
+      "id": "55a5a1ebe4b013909087cbbf",
+      "name": "Restaurant servant de la cuisine de Lombardie"
+    },
+    { "id": "55a5a1ebe4b013909087cb79", "name": "Malga" },
+    {
+      "id": "55a5a1ebe4b013909087cbb0",
+      "name": "Restaurant servant de la cuisine de la région des Marches"
+    },
+    {
+      "id": "55a5a1ebe4b013909087cbb3",
+      "name": "Restaurant servant de la cuisine de la région du Molise"
+    },
+    {
+      "id": "55a5a1ebe4b013909087cb74",
+      "name": "Restaurant servant de la piadina"
+    },
+    {
+      "id": "55a5a1ebe4b013909087cbaa",
+      "name": "Restaurant servant de la cuisine piémontaise"
+    },
+    {
+      "id": "55a5a1ebe4b013909087cb83",
+      "name": "Restaurant servant de la cuisine de la région des Pouilles"
+    },
+    {
+      "id": "55a5a1ebe4b013909087cb8c",
+      "name": "Restaurant servant de la cuisine de la région de la Romagne"
+    },
+    {
+      "id": "55a5a1ebe4b013909087cb92",
+      "name": "Restaurant servant de la cuisine romaine"
+    },
+    {
+      "id": "55a5a1ebe4b013909087cb8f",
+      "name": "Restaurant servant de la cuisine sarde"
+    },
+    {
+      "id": "55a5a1ebe4b013909087cb86",
+      "name": "Restaurant servant de la cuisine sicilienne"
+    },
+    {
+      "id": "55a5a1ebe4b013909087cbb9",
+      "name": "Restaurant servant de la cuisine de la région du Tyrol du Sud"
+    },
+    { "id": "55a5a1ebe4b013909087cb7f", "name": "Trattoria/Osteria" },
+    {
+      "id": "55a5a1ebe4b013909087cbbc",
+      "name": "Restaurant servant de la cuisine de la région du Trentin"
+    },
+    {
+      "id": "55a5a1ebe4b013909087cb9e",
+      "name": "Restaurant servant de la cuisine toscane"
+    },
+    {
+      "id": "55a5a1ebe4b013909087cbc2",
+      "name": "Restaurant servant de la cuisine de la région de l'Ombrie"
+    },
+    {
+      "id": "55a5a1ebe4b013909087cbad",
+      "name": "Restaurant servant de la cuisine vénitienne"
+    },
+    {
+      "id": "52e81612bcbc57f1066b79fd",
+      "name": "Restaurant de tradition juive"
+    },
+    { "id": "52e81612bcbc57f1066b79fc", "name": "Restaurant casher" },
+    { "id": "4bf58dd8d48988d112941735", "name": "Bar à jus" },
+    { "id": "5283c7b4e4b094cb91ec88d7", "name": "Restaurant de kebab" },
+    { "id": "4bf58dd8d48988d1be941735", "name": "Restaurant latino-américain" },
+    { "id": "4bf58dd8d48988d152941735", "name": "Restaurant arepa" },
+    { "id": "52939a8c3cf9994f4e043a35", "name": "Restaurant d'empanada" },
+    {
+      "id": "5745c7ac498e5d0483112fdb",
+      "name": "Restaurant de cuisine du Salvador"
+    },
+    { "id": "4bf58dd8d48988d1cd941735", "name": "Restaurant sud-américain" },
+    { "id": "4bf58dd8d48988d1bf941735", "name": "Lieu servant des pâtes" },
+    { "id": "4bf58dd8d48988d1c0941735", "name": "Restaurant méditerranéen" },
+    { "id": "4bf58dd8d48988d1c3941735", "name": "Restaurant marocain" },
+    { "id": "4bf58dd8d48988d1c1941735", "name": "Restaurant mexicain" },
+    { "id": "58daa1558bbb0b01f18ec1d9", "name": "Botanero" },
+    { "id": "4bf58dd8d48988d153941735", "name": "Lieu servant des burritos" },
+    { "id": "4bf58dd8d48988d151941735", "name": "Bar à tacos" },
+    { "id": "56aa371ae4b08b9a8d5734ba", "name": "Restaurant tex-mex" },
+    {
+      "id": "5744ccdfe4b0c0459246b4d3",
+      "name": "Restaurant servant de la cuisine du Yucatán"
+    },
+    { "id": "4bf58dd8d48988d115941735", "name": "Restaurant du Moyen-Orient" },
+    {
+      "id": "5bae9231bedf3950379f89e1",
+      "name": "Restaurant servant de la cuisine égyptienne"
+    },
+    {
+      "id": "5bae9231bedf3950379f89e7",
+      "name": "Restaurant servant de la cuisine irakienne"
+    },
+    { "id": "56aa371be4b08b9a8d573529", "name": "Restaurant israélien" },
+    { "id": "5744ccdfe4b0c0459246b4ca", "name": "Restaurant kurde" },
+    { "id": "58daa1558bbb0b01f18ec1cd", "name": "Restaurant libanais" },
+    { "id": "52e81612bcbc57f1066b79f7", "name": "Restaurant perse" },
+    {
+      "id": "5bae9231bedf3950379f89e4",
+      "name": "Lieu de restauration spécialisé en shawarma"
+    },
+    {
+      "id": "5bae9231bedf3950379f89da",
+      "name": "Restaurant servant de la cuisine syrienne"
+    },
+    {
+      "id": "5bae9231bedf3950379f89ea",
+      "name": "Restaurant servant de la cuisine yéménite"
+    },
+    {
+      "id": "52e81612bcbc57f1066b79f9",
+      "name": "Restaurant européen gastronomique"
+    },
+    {
+      "id": "4bf58dd8d48988d1c2941735",
+      "name": "Restaurant de cuisine moléculaire"
+    },
+    { "id": "52e81612bcbc57f1066b79f8", "name": "Restaurant pakistanais" },
+    {
+      "id": "56aa371be4b08b9a8d573508",
+      "name": "Café avec animaux en liberté"
+    },
+    { "id": "4bf58dd8d48988d1ca941735", "name": "Pizzeria" },
+    { "id": "52e81612bcbc57f1066b7a04", "name": "Restaurant polonais" },
+    { "id": "4def73e84765ae376e57713a", "name": "Restaurant portugais" },
+    { "id": "56aa371be4b08b9a8d5734c7", "name": "Lieu servant de la poutine" },
+    { "id": "4bf58dd8d48988d1c4941735", "name": "Restaurant" },
+    { "id": "5293a7563cf9994f4e043a44", "name": "Restaurant russe" },
+    { "id": "52e928d0bcbc57f1066b7e9d", "name": "Restaurant de blinis" },
+    { "id": "52e928d0bcbc57f1066b7e9c", "name": "Restaurant de pelmenis" },
+    { "id": "4bf58dd8d48988d1bd941735", "name": "Bar à salades" },
+    { "id": "4bf58dd8d48988d1c5941735", "name": "Sandwicherie" },
+    { "id": "4bf58dd8d48988d1c6941735", "name": "Restaurant scandinave" },
+    { "id": "5744ccdde4b0c0459246b4a3", "name": "Restaurant écossais" },
+    { "id": "4bf58dd8d48988d1ce941735", "name": "Restaurant de fruits de mer" },
+    { "id": "56aa371be4b08b9a8d57355a", "name": "Restaurant slovaque" },
+    { "id": "4bf58dd8d48988d1c7941735", "name": "Snack" },
+    { "id": "4bf58dd8d48988d1dd931735", "name": "Bar à soupe" },
+    { "id": "4bf58dd8d48988d14f941735", "name": "Restaurant de soul-food" },
+    { "id": "4bf58dd8d48988d150941735", "name": "Restaurant espagnol" },
+    {
+      "id": "4bf58dd8d48988d14d941735",
+      "name": "Restaurant servant de la paëlla"
+    },
+    { "id": "4bf58dd8d48988d1db931735", "name": "Bar à tapas" },
+    { "id": "5413605de4b0ae91d18581a9", "name": "Restaurant sri-lankais" },
+    { "id": "4bf58dd8d48988d1cc941735", "name": "Restaurant-grill" },
+    { "id": "4bf58dd8d48988d158941735", "name": "Restaurant suisse" },
+    { "id": "4bf58dd8d48988d1dc931735", "name": "Salon de thé" },
+    { "id": "56aa371be4b08b9a8d573538", "name": "Restaurant à thème" },
+    { "id": "57558b36e4b065ecebd306dd", "name": "Relais routier" },
+    { "id": "4f04af1f2fb6e1c99f3db0bb", "name": "Restaurant turc" },
+    { "id": "530faca9bcbc57f1066bc2f3", "name": "Borek Place" },
+    { "id": "530faca9bcbc57f1066bc2f4", "name": "Cigkofte Place" },
+    { "id": "5283c7b4e4b094cb91ec88d8", "name": "Restaurant de Döner kebab" },
+    { "id": "5283c7b4e4b094cb91ec88d9", "name": "Restaurant de Gözleme" },
+    { "id": "5283c7b4e4b094cb91ec88db", "name": "Restaurants de Keftas" },
+    { "id": "5283c7b4e4b094cb91ec88d6", "name": "Restaurant de Kokoreç" },
+    {
+      "id": "56aa371be4b08b9a8d573535",
+      "name": "Restaurant servant du kumpir"
+    },
+    { "id": "56aa371be4b08b9a8d5734bd", "name": "Restaurant servant du kumru" },
+    { "id": "5283c7b4e4b094cb91ec88d5", "name": "Restaurant de Manti" },
+    { "id": "5283c7b4e4b094cb91ec88da", "name": "Meyhane" },
+    { "id": "530faca9bcbc57f1066bc2f2", "name": "Pide Place" },
+    { "id": "58daa1558bbb0b01f18ec1df", "name": "Pilavcı" },
+    { "id": "58daa1558bbb0b01f18ec1dc", "name": "Restaurant servant du söğüş" },
+    {
+      "id": "56aa371be4b08b9a8d5734bf",
+      "name": "Restaurant servant du tantuni"
+    },
+    { "id": "56aa371be4b08b9a8d5734c1", "name": "Café turc" },
+    {
+      "id": "5283c7b4e4b094cb91ec88d4",
+      "name": "Restaurant de cuisine familiale turque"
+    },
+    {
+      "id": "58daa1558bbb0b01f18ec1e2",
+      "name": "Restaurant servant du çöp şiş"
+    },
+    { "id": "52e928d0bcbc57f1066b7e96", "name": "Restaurant ukrainien" },
+    { "id": "52e928d0bcbc57f1066b7e9a", "name": "Varenyky restaurant" },
+    { "id": "52e928d0bcbc57f1066b7e9b", "name": "Restaurant ouest-ukrainien" },
+    {
+      "id": "4bf58dd8d48988d1d3941735",
+      "name": "Restaurant végétarien / végétalien"
+    },
+    { "id": "4bf58dd8d48988d14c941735", "name": "Lieu servant des wings" }
+  ],
+  "bar": [
+    { "id": "4d4b7105d754a06376d81259", "name": "Lieu de la vie nocturne" },
+    { "id": "4bf58dd8d48988d116941735", "name": "Bar" },
+    { "id": "52e81612bcbc57f1066b7a0d", "name": "Bar de plage" },
+    { "id": "56aa371ce4b08b9a8d57356c", "name": "Bar à bières" },
+    { "id": "4bf58dd8d48988d117941735", "name": "Café en plein air" },
+    { "id": "52e81612bcbc57f1066b7a0e", "name": "Bar à champagne" },
+    { "id": "4bf58dd8d48988d11e941735", "name": "Bar à cocktail" },
+    { "id": "4bf58dd8d48988d118941735", "name": "Rade" },
+    { "id": "4bf58dd8d48988d1d8941735", "name": "Bar gay" },
+    { "id": "4bf58dd8d48988d119941735", "name": "Bar à chicha" },
+    { "id": "4bf58dd8d48988d1d5941735", "name": "Bar d'hôtel" },
+    { "id": "4bf58dd8d48988d120941735", "name": "Bar karaoké" },
+    { "id": "4bf58dd8d48988d11b941735", "name": "Pub" },
+    { "id": "4bf58dd8d48988d11c941735", "name": "Bar à saké" },
+    { "id": "4bf58dd8d48988d1d4941735", "name": "Bar clandestin" },
+    { "id": "4bf58dd8d48988d11d941735", "name": "Café des sports" },
+    { "id": "56aa371be4b08b9a8d57354d", "name": "Bar à ambiance tropicale" },
+    { "id": "4bf58dd8d48988d122941735", "name": "Bar à whisky" },
+    { "id": "4bf58dd8d48988d123941735", "name": "Bar à vins" },
+    { "id": "50327c8591d4c4b30a586d5d", "name": "Brasseur" },
+    { "id": "4bf58dd8d48988d121941735", "name": "Bar lounge" },
+    { "id": "53e510b7498ebcb1801b55d4", "name": "Marché nocturne" },
+    { "id": "4bf58dd8d48988d11f941735", "name": "Discothèque" },
+    {
+      "id": "4bf58dd8d48988d11a941735",
+      "name": "Autre lieu de la vie nocturne"
+    },
+    { "id": "4bf58dd8d48988d1d6941735", "name": "Club de striptease" }
+  ],
+  "office": [
+    {
+      "id": "4d4b7105d754a06375d81259",
+      "name": "Lieux professionnels ou autres"
+    },
+    { "id": "4e52d2d203646f7c19daa8ae", "name": "Refuge pour animaux" },
+    { "id": "58daa1558bbb0b01f18ec1d6", "name": "Studio d'art" },
+    { "id": "4bf58dd8d48988d173941735", "name": "Auditorium" },
+    { "id": "56aa371be4b08b9a8d5734cf", "name": "Salle de bal" },
+    { "id": "4bf58dd8d48988d130941735", "name": "Bâtiment" },
+    { "id": "56aa371be4b08b9a8d573517", "name": "Centre d'affaires" },
+    { "id": "52e81612bcbc57f1066b7a35", "name": "Club House" },
+    { "id": "52e81612bcbc57f1066b7a34", "name": "Salle des fêtes" },
+    { "id": "4bf58dd8d48988d1ff931735", "name": "Palais des congrès" },
+    { "id": "4bf58dd8d48988d100941735", "name": "Salle de réunion" },
+    { "id": "52e81612bcbc57f1066b7a32", "name": "Centre culturel" },
+    { "id": "4e0e22f5a56208c4ea9a85a0", "name": "Distillerie" },
+    { "id": "52e81612bcbc57f1066b7a37", "name": "Centre de distribution" },
+    { "id": "4bf58dd8d48988d171941735", "name": "Salle polyvalente" },
+    { "id": "56aa371be4b08b9a8d57356a", "name": "Parc des expositions" },
+    { "id": "4eb1bea83b7b6f98df247e06", "name": "Usine" },
+    { "id": "4bf58dd8d48988d126941735", "name": "Bâtiment gouvernemental" },
+    { "id": "4bf58dd8d48988d12a941735", "name": "Capitole" },
+    { "id": "4bf58dd8d48988d129941735", "name": "Hôtel de ville" },
+    { "id": "4bf58dd8d48988d12b941735", "name": "Palais de justice" },
+    { "id": "4bf58dd8d48988d12c951735", "name": "Ambassade / Consulat" },
+    { "id": "4bf58dd8d48988d12c941735", "name": "Caserne de pompiers" },
+    { "id": "4bf58dd8d48988d12d941735", "name": "Monument / Point d'intérêt" },
+    { "id": "4bf58dd8d48988d12e941735", "name": "Commissariat de police" },
+    { "id": "52e81612bcbc57f1066b7a38", "name": "Mairie" },
+    { "id": "56aa371be4b08b9a8d5734d7", "name": "Zone industrielle" },
+    { "id": "5744ccdfe4b0c0459246b4d6", "name": "Laboratoire" },
+    { "id": "4bf58dd8d48988d12f941735", "name": "Bibliothèque" },
+    { "id": "4bf58dd8d48988d104941735", "name": "Centre médical" },
+    { "id": "52e81612bcbc57f1066b7a3b", "name": "Acupuncteur" },
+    { "id": "52e81612bcbc57f1066b7a3c", "name": "Médecine douce" },
+    { "id": "52e81612bcbc57f1066b7a3a", "name": "Chiropracteur" },
+    { "id": "4bf58dd8d48988d178941735", "name": "Cabinet de dentiste" },
+    { "id": "4bf58dd8d48988d177941735", "name": "Cabinet de médecin" },
+    { "id": "4bf58dd8d48988d194941735", "name": "Service des Urgences" },
+    { "id": "522e32fae4b09b556e370f19", "name": "Ophtalmologiste" },
+    { "id": "4bf58dd8d48988d196941735", "name": "Hôpital" },
+    { "id": "56aa371be4b08b9a8d5734ff", "name": "Maternité" },
+    { "id": "4f4531b14b9074f6e4fb0103", "name": "Laboratoire médical" },
+    { "id": "52e81612bcbc57f1066b7a39", "name": "Centre psychiatrique" },
+    { "id": "58daa1558bbb0b01f18ec1d0", "name": "Nutritionniste" },
+    { "id": "5744ccdfe4b0c0459246b4af", "name": "Kinésithérapeute" },
+    { "id": "56aa371be4b08b9a8d57351d", "name": "Centre de désintoxication" },
+    { "id": "56aa371be4b08b9a8d573526", "name": "Urgences" },
+    { "id": "4d954af4a243a5684765b473", "name": "Vétérinaire" },
+    { "id": "4e52adeebd41615f56317744", "name": "Base militaire" },
+    {
+      "id": "50328a8e91d4c4b30a586d6c",
+      "name": "Association à but non lucratif"
+    },
+    { "id": "5744ccdfe4b0c0459246b4d9", "name": "Observatoire" },
+    { "id": "4bf58dd8d48988d124941735", "name": "Bureau" },
+    { "id": "52e81612bcbc57f1066b7a3d", "name": "Agence de publicité" },
+    {
+      "id": "5032764e91d4c4b30a586d5a",
+      "name": "Bureau de campagne électorale"
+    },
+    { "id": "4bf58dd8d48988d127941735", "name": "Salle de conférence" },
+    { "id": "5665ef1d498ec706735f0e59", "name": "Équipement d'entreprise" },
+    { "id": "54f4ba06498e2cf5561da814", "name": "Cafétéria d'entreprise" },
+    {
+      "id": "5665c7b9498e7d8a4f2c0f06",
+      "name": "Établissement d'une chaîne de cafés"
+    },
+    { "id": "4bf58dd8d48988d174941735", "name": "Espace de travail partagé" },
+    { "id": "4bf58dd8d48988d125941735", "name": "Startup technologique" },
+    { "id": "4bf58dd8d48988d172941735", "name": "Bureau de poste" },
+    { "id": "58daa1548bbb0b01f18ec1a9", "name": "Centrale électrique" },
+    { "id": "5310b8e5bcbc57f1066bcbf1", "name": "Prison" },
+    { "id": "5032856091d4c4b30a586d63", "name": "Station de radio" },
+    { "id": "52f2ab2ebcbc57f1066b8b57", "name": "Agence de recrutement" },
+    { "id": "58daa1558bbb0b01f18ec1b2", "name": "Centre de recherche" },
+    { "id": "52e81612bcbc57f1066b7a31", "name": "Station de télévision" },
+    { "id": "4cae28ecbf23941eb1190695", "name": "Isoloir" },
+    { "id": "56aa371be4b08b9a8d5734c5", "name": "Salle de mariage" },
+    { "id": "4bf58dd8d48988d14b941735", "name": "Chai" }
+  ],
+  "shop": [
+    { "id": "4d4b7105d754a06378d81259", "name": "Boutique et service" },
+    { "id": "52f2ab2ebcbc57f1066b8b56", "name": "Distributeur automatique" },
+    { "id": "5267e446e4b0ec79466e48c4", "name": "Magasin pour adultes" },
+    { "id": "4bf58dd8d48988d116951735", "name": "Magasin d'antiquités" },
+    { "id": "4bf58dd8d48988d127951735", "name": "Magasin d'artisanat" },
+    { "id": "52f2ab2ebcbc57f1066b8b43", "name": "Astrologue" },
+    { "id": "4eb1c1623b7b52c0e1adc2ec", "name": "Concession automobile" },
+    { "id": "52f2ab2ebcbc57f1066b8b44", "name": "Garage auto" },
+    { "id": "56aa371be4b08b9a8d5734d3", "name": "Atelier auto" },
+    { "id": "4bf58dd8d48988d124951735", "name": "Accessoiriste auto" },
+    { "id": "52f2ab2ebcbc57f1066b8b32", "name": "Magasin de puériculture" },
+    { "id": "4bf58dd8d48988d10a951735", "name": "Banque" },
+    { "id": "52e81612bcbc57f1066b7a27", "name": "Bains publics" },
+    { "id": "56aa371be4b08b9a8d5734cb", "name": "Magasin de batik" },
+    { "id": "52f2ab2ebcbc57f1066b8b40", "name": "Lieu de paris" },
+    { "id": "52f2ab2ebcbc57f1066b8b42", "name": "Grande surface" },
+    { "id": "4bf58dd8d48988d115951735", "name": "Atelier à vélos" },
+    { "id": "4bf58dd8d48988d1f1941735", "name": "Magasin de planches" },
+    { "id": "4bf58dd8d48988d114951735", "name": "Librairie" },
+    { "id": "4bf58dd8d48988d11a951735", "name": "Boutique de mariage" },
+    { "id": "5453de49498eade8af355881", "name": "Service aux entreprises" },
+    { "id": "4eb1bdf03b7b55596b4a7491", "name": "Magasin de photo" },
+    { "id": "4bf58dd8d48988d117951735", "name": "Confiserie" },
+    {
+      "id": "4f04ae1f2fb6e1c99f3db0ba",
+      "name": "Station de lavage automobile"
+    },
+    { "id": "52f2ab2ebcbc57f1066b8b2a", "name": "Magasin de tapis" },
+    {
+      "id": "52f2ab2ebcbc57f1066b8b2d",
+      "name": "Service d'encaissement des chèques"
+    },
+    { "id": "5744ccdfe4b0c0459246b4c7", "name": "Garderie" },
+    { "id": "4f4532974b9074f6e4fb0104", "name": "Garderie" },
+    { "id": "52f2ab2ebcbc57f1066b8b31", "name": "Chocolatier" },
+    { "id": "4bf58dd8d48988d103951735", "name": "Magasin de vêtements" },
+    { "id": "4bf58dd8d48988d102951735", "name": "Magasin d'accessoires" },
+    { "id": "4bf58dd8d48988d104951735", "name": "Boutique" },
+    {
+      "id": "4bf58dd8d48988d105951735",
+      "name": "Boutique de vêtements pour enfants"
+    },
+    { "id": "4bf58dd8d48988d109951735", "name": "Boutique de lingeries" },
+    {
+      "id": "4bf58dd8d48988d106951735",
+      "name": "Boutique de vêtements pour hommes"
+    },
+    { "id": "4bf58dd8d48988d107951735", "name": "Magasin de chaussures" },
+    {
+      "id": "4bf58dd8d48988d108951735",
+      "name": "Boutique de vêtements pour femmes"
+    },
+    {
+      "id": "52f2ab2ebcbc57f1066b8b18",
+      "name": "Librairie spécialisée en bandes dessinées"
+    },
+    {
+      "id": "5454144b498ec1f095bff2f2",
+      "name": "Construction et aménagement paysager"
+    },
+    { "id": "4d954b0ea243a5684a65b473", "name": "Supérette" },
+    { "id": "4bf58dd8d48988d10c951735", "name": "Boutique de cosmétiques" },
+    { "id": "52f2ab2ebcbc57f1066b8b17", "name": "Magasin de costumes" },
+    { "id": "5032850891d4c4b30a586d62", "name": "Coopérative de crédit" },
+    { "id": "5744ccdfe4b0c0459246b4be", "name": "Bureau de change" },
+    { "id": "4bf58dd8d48988d1f6941735", "name": "Grand magasin" },
+    { "id": "4bf58dd8d48988d1f4941735", "name": "Studio de conception" },
+    { "id": "52dea92d3cf9994f4e043dbb", "name": "Magasin discount" },
+    { "id": "52f2ab2ebcbc57f1066b8b1a", "name": "Boutique de plongée" },
+    { "id": "5745c2e4498e11e7bccabdbd", "name": "Parapharmacie" },
+    { "id": "52f2ab2ebcbc57f1066b8b1d", "name": "Pressing" },
+    {
+      "id": "5032872391d4c4b30a586d64",
+      "name": "Station de recharge pour véhicules électriques"
+    },
+    { "id": "4bf58dd8d48988d122951735", "name": "Magasin d'électronique" },
+    { "id": "56aa371be4b08b9a8d573554", "name": "Service de divertissement" },
+    { "id": "5454152e498ef71e2b9132c6", "name": "Service événementiel" },
+    { "id": "52f2ab2ebcbc57f1066b8b26", "name": "Magasin de textiles" },
+    { "id": "56aa371be4b08b9a8d573523", "name": "Studio de cinéma" },
+    {
+      "id": "503287a291d4c4b30a586d65",
+      "name": "Service financier ou juridique"
+    },
+    {
+      "id": "52f2ab2ebcbc57f1066b8b3a",
+      "name": "Boutique de feux d'artifices"
+    },
+    { "id": "52f2ab2ebcbc57f1066b8b16", "name": "Magasin de pêche" },
+    { "id": "4bf58dd8d48988d1f7941735", "name": "Marché aux puces" },
+    { "id": "56aa371be4b08b9a8d573505", "name": "Marché flottant" },
+    { "id": "4bf58dd8d48988d11b951735", "name": "Fleuriste" },
+    { "id": "4bf58dd8d48988d1f9941735", "name": "Magasin alimentaire" },
+    { "id": "5370f356bcbc57f1066c94c2", "name": "Magasin de vente de bière" },
+    { "id": "4bf58dd8d48988d11d951735", "name": "Boucherie" },
+    { "id": "4bf58dd8d48988d11e951735", "name": "Fromagerie" },
+    {
+      "id": "58daa1558bbb0b01f18ec1ca",
+      "name": "Magasin de produits laitiers"
+    },
+    { "id": "4bf58dd8d48988d1fa941735", "name": "Marché fermier" },
+    { "id": "4bf58dd8d48988d10e951735", "name": "Marché aux poissons" },
+    { "id": "56aa371be4b08b9a8d573550", "name": "Traiteur" },
+    {
+      "id": "4bf58dd8d48988d1f5941735",
+      "name": "Magasin de spécialités gastronomiques"
+    },
+    { "id": "4bf58dd8d48988d118951735", "name": "Épicerie" },
+    { "id": "50aa9e744b90af0d42d5de0e", "name": "Magasin d'alimentation bio" },
+    { "id": "58daa1558bbb0b01f18ec1e8", "name": "Kuruyemişçi" },
+    { "id": "4bf58dd8d48988d186941735", "name": "Magasin de spiritueux" },
+    { "id": "52f2ab2ebcbc57f1066b8b45", "name": "Épicerie bio" },
+    { "id": "56aa371be4b08b9a8d573564", "name": "Saucisserie" },
+    {
+      "id": "53e0feef498e5aac066fd8a9",
+      "name": "Rassemblement de Street Food"
+    },
+    { "id": "52f2ab2ebcbc57f1066b8b46", "name": "Supermarché" },
+    { "id": "58daa1558bbb0b01f18ec1e5", "name": "Turşucu" },
+    { "id": "4bf58dd8d48988d119951735", "name": "Caviste" },
+    { "id": "52f2ab2ebcbc57f1066b8b24", "name": "Magasin d'encadrement" },
+    { "id": "52f2ab2ebcbc57f1066b8b1c", "name": "Primeur" },
+    {
+      "id": "4bf58dd8d48988d1f8941735",
+      "name": "Magasin d'ameublement/de décoration intérieure"
+    },
+    { "id": "55888a5a498e782e3303b43a", "name": "Magasin de luminaires" },
+    { "id": "4bf58dd8d48988d18d941735", "name": "Salle de jeux en ligne" },
+    { "id": "4eb1c0253b7b52c0e1adc2e9", "name": "Jardinerie" },
+    { "id": "4bf58dd8d48988d113951735", "name": "Station-essence" },
+    { "id": "4bf58dd8d48988d128951735", "name": "Boutique de souvenirs" },
+    { "id": "52f2ab2ebcbc57f1066b8b19", "name": "Armurerie" },
+    { "id": "4bf58dd8d48988d112951735", "name": "Quincaillerie" },
+    {
+      "id": "54541900498ea6ccd0202697",
+      "name": "Service de santé et de beauté"
+    },
+    { "id": "52f2ab2ebcbc57f1066b8b2c", "name": "Herboristerie" },
+    { "id": "4bf58dd8d48988d1fb941735", "name": "Magasin de loisirs créatifs" },
+    { "id": "545419b1498ea6ccd0202f58", "name": "Service à domicile" },
+    { "id": "50aaa5234b90af0d42d5de12", "name": "Accessoire de chasse" },
+    { "id": "52f2ab2ebcbc57f1066b8b36", "name": "Services informatiques" },
+    { "id": "58daa1558bbb0b01f18ec1f1", "name": "Assureur" },
+    { "id": "4bf58dd8d48988d1f0941735", "name": "Cybercafé" },
+    { "id": "4bf58dd8d48988d111951735", "name": "Bijouterie" },
+    {
+      "id": "58daa1558bbb0b01f18ec1b4",
+      "name": "Magasin d'ustensiles de cuisine"
+    },
+    { "id": "52f2ab2ebcbc57f1066b8b25", "name": "Magasin de tricot" },
+    { "id": "52f2ab2ebcbc57f1066b8b33", "name": "Laverie automatique" },
+    { "id": "4bf58dd8d48988d1fc941735", "name": "Blanchisserie" },
+    { "id": "52f2ab2ebcbc57f1066b8b3f", "name": "Avocat" },
+    { "id": "52f2ab2ebcbc57f1066b8b2b", "name": "Maroquinerie" },
+    { "id": "52f2ab2ebcbc57f1066b8b1e", "name": "Serrurier" },
+    { "id": "52f2ab2ebcbc57f1066b8b38", "name": "Vente de billets de loto" },
+    { "id": "52f2ab2ebcbc57f1066b8b29", "name": "Magasin de bagages" },
+    { "id": "52c71aaf3cf9994f4e043d17", "name": "Dispensaire de cannabis" },
+    { "id": "50be8ee891d4fa8dcc7199a7", "name": "Marché" },
+    { "id": "52f2ab2ebcbc57f1066b8b3c", "name": "Salon de massage" },
+    { "id": "52f2ab2ebcbc57f1066b8b27", "name": "Magasin de literie" },
+    {
+      "id": "58daa1558bbb0b01f18ec206",
+      "name": "Magasin d'équipement médical"
+    },
+    { "id": "4bf58dd8d48988d1ff941735", "name": "Boutique de produits divers" },
+    {
+      "id": "4f04afc02fb6e1c99f3db0bc",
+      "name": "Magasin de téléphonie mobile"
+    },
+    {
+      "id": "56aa371be4b08b9a8d57354a",
+      "name": "Magasin d'articles pour personnes à mobilité réduite"
+    },
+    { "id": "5032833091d4c4b30a586d60", "name": "Magasin de moto" },
+    {
+      "id": "59d79d6b2e268052fa2a3332",
+      "name": "Magasin pour sports mécaniques"
+    },
+    { "id": "4bf58dd8d48988d1fe941735", "name": "Magasin de musique" },
+    { "id": "4f04aa0c2fb6e1c99f3db0b8", "name": "Salon de manucure" },
+    { "id": "4f04ad622fb6e1c99f3db0b9", "name": "Kiosque à journaux" },
+    { "id": "5ae95d208a6f17002ce792b2", "name": "Notaire" },
+    { "id": "4d954afda243a5684865b473", "name": "Opticien" },
+    { "id": "52f2ab2ebcbc57f1066b8b2f", "name": "Autre atelier de réparation" },
+    {
+      "id": "52f2ab2ebcbc57f1066b8b22",
+      "name": "Magasin d'articles pour les activités en plein air"
+    },
+    { "id": "5744ccdfe4b0c0459246b4df", "name": "Magasin d'usine" },
+    { "id": "52f2ab2ebcbc57f1066b8b35", "name": "Magasin d'usine" },
+    {
+      "id": "4bf58dd8d48988d121951735",
+      "name": "Papeterie/Magasin de fournitures de bureau"
+    },
+    { "id": "52f2ab2ebcbc57f1066b8b34", "name": "Prêteur sur gage" },
+    { "id": "52f2ab2ebcbc57f1066b8b23", "name": "Parfumerie" },
+    {
+      "id": "5032897c91d4c4b30a586d69",
+      "name": "Service pour animaux de compagnie"
+    },
+    { "id": "4bf58dd8d48988d100951735", "name": "Animalerie" },
+    { "id": "4bf58dd8d48988d10f951735", "name": "Pharmacie" },
+    { "id": "4eb1bdde3b7b55596b4a7490", "name": "Laboratoire photographique" },
+    { "id": "554a5e17498efabeda6cc559", "name": "Studio photo" },
+    { "id": "52f2ab2ebcbc57f1066b8b20", "name": "Salon de piercing" },
+    { "id": "52f2ab2ebcbc57f1066b8b3d", "name": "Boutique éphémère" },
+    { "id": "52f2ab2ebcbc57f1066b8b28", "name": "Imprimerie" },
+    { "id": "5744ccdfe4b0c0459246b4c4", "name": "Toilettes publiques" },
+    { "id": "5032885091d4c4b30a586d66", "name": "Agence immobilière" },
+    { "id": "4bf58dd8d48988d10d951735", "name": "Disquaire" },
+    { "id": "52f2ab2ebcbc57f1066b8b37", "name": "Studio d'enregistrement" },
+    { "id": "4f4531084b9074f6e4fb0101", "name": "Installation de recyclage" },
+    { "id": "56aa371be4b08b9a8d573552", "name": "Service de location" },
+    { "id": "4bf58dd8d48988d110951735", "name": "Coiffeur / Barbier" },
+    { "id": "58daa1558bbb0b01f18ec1ae", "name": "Sauna / hammam" },
+    {
+      "id": "52f2ab2ebcbc57f1066b8b1f",
+      "name": "Point d'envoi et de retrait des colis"
+    },
+    { "id": "52f2ab2ebcbc57f1066b8b39", "name": "Cordonnier" },
+    { "id": "4bf58dd8d48988d1fd941735", "name": "Centre commercial" },
+    { "id": "5744ccdfe4b0c0459246b4dc", "name": "Zone commerçante" },
+    { "id": "5bae9231bedf3950379f89d2", "name": "Boutique de skate" },
+    { "id": "56aa371be4b08b9a8d573566", "name": "Magasin de ski" },
+    { "id": "4bf58dd8d48988d123951735", "name": "Tabac" },
+    { "id": "52f2ab2ebcbc57f1066b8b41", "name": "Boutique de smoothies" },
+    { "id": "52f2ab2ebcbc57f1066b8b1b", "name": "Boutique de souvenirs" },
+    { "id": "4bf58dd8d48988d1ed941735", "name": "Spa" },
+    { "id": "4bf58dd8d48988d1f2941735", "name": "Magasin de sport" },
+    { "id": "52f2ab2ebcbc57f1066b8b21", "name": "Papeterie" },
+    { "id": "4f04b1572fb6e1c99f3db0bf", "name": "Installation de stockage" },
+    {
+      "id": "5744ccdfe4b0c0459246b4cd",
+      "name": "Magasin de suppléments alimentaires"
+    },
+    { "id": "5032781d91d4c4b30a586d5b", "name": "Boutique de couturier" },
+    { "id": "4d1cf8421a97d635ce361c31", "name": "Salon de bronzage" },
+    { "id": "4bf58dd8d48988d1de931735", "name": "Salon de tatouage" },
+    {
+      "id": "4bf58dd8d48988d101951735",
+      "name": "Boutique d'occasions/vintage"
+    },
+    { "id": "4bf58dd8d48988d1f3941735", "name": "Magasin de jouets/de jeux" },
+    { "id": "4f04b08c2fb6e1c99f3db0bd", "name": "Agence de voyages" },
+    { "id": "52f2ab2ebcbc57f1066b8b30", "name": "Bouquiniste" },
+    {
+      "id": "56aa371be4b08b9a8d57355c",
+      "name": "Magasin de cigarettes électroniques"
+    },
+    { "id": "4bf58dd8d48988d10b951735", "name": "Magasin de jeux vidéos" },
+    { "id": "4bf58dd8d48988d126951735", "name": "Magasin de vidéos" },
+    { "id": "52e816a6bcbc57f1066b7a54", "name": "Entrepôt-vente" },
+    { "id": "52f2ab2ebcbc57f1066b8b2e", "name": "Horloger" }
+  ],
+  "station": [
+    { "id": "4d4b7105d754a06379d81259", "name": "Voyages et transport" },
+    { "id": "4bf58dd8d48988d1fc931735", "name": "Station de métro aérien" },
+    { "id": "4bf58dd8d48988d1fd931735", "name": "Station de métro" },
+    { "id": "4bf58dd8d48988d129951735", "name": "Gare" },
+    { "id": "4f4531504b9074f6e4fb0102", "name": "Quai de gare" },
+    { "id": "4bf58dd8d48988d12a951735", "name": "Train" },
+    { "id": "52f2ab2ebcbc57f1066b8b51", "name": "Station de tramway" }
+  ]
+}
